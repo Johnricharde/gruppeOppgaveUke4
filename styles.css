@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 45px;
+
+}
+
+
+.container {
+    border-radius: 85px;
+    margin: 0 auto;
+    width: 850px;
+    height: 900px;
+    background-color: skyblue;
+}
+.mood {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+.thick_border {
+    border: solid 5px black;
+}
+
+.social_disticing {
+    margin: 10px;
+}
+
+.border {
+    border: solid 2px black;
+}
+
+#buttonLayout {
+    margin-top: 50px;
+    
+}
+
+button {
+    font-weight: 800;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 15px;
+    margin-top: -15px;
+    cursor: pointer; 
+}
+
+#background {
+    background-color: white;
+    border-radius: 25px;
+    /* background-image: url("/img/backgroundImage.jpg"); */
+    width: 650px;
+    margin: 50px auto;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+#picture {
+    padding: 0px;
+}
+
+
+
+
+
